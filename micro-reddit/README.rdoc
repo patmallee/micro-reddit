@@ -1,28 +1,15 @@
 == README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This project is completed as part of The Odin Project: theodinproject.com
 
-Things you may want to cover:
+Summary
+-------
 
-* Ruby version
+The goal of this project is to create a greatly scaled-down version of Reddit. The project contains just three interacting models, affording the student practice with creating models and incorporating the necessary validations and associations to make the back-end of the application interact appropriately.
 
-* System dependencies
+Contact
+-------
 
-* Configuration
+For more information about the project, visit the Odin Project webiste (theodinproject.com) and navigate to Projects: Active Record Basics.
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+I can be contacted at - patmallee@gmail.com
