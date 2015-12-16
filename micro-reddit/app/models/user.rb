@@ -3,4 +3,6 @@ class User < ActiveRecord::Base
 	          uniqueness: true, 
 	          length: { maximum: 50, minimum: 5 }
 
+	has_many :posts
+
 end

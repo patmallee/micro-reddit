@@ -3,4 +3,6 @@ class Post < ActiveRecord::Base
 	          length: { minimum: 1, maximum: 50 }
 	validates :body, presence: true
 	
+	belongs_to :user
+
 end
